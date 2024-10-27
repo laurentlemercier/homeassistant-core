@@ -30,7 +30,8 @@
         "redhat.vscode-yaml",
         "esbenp.prettier-vscode",
         "GitHub.vscode-pull-request-github",
-        "GitHub.copilot"
+        "GitHub.copilot",
+        "formulahendry.docker-explorer"
       ],
       // Please keep this file in sync with settings in home-assistant/.vscode/settings.default.json
       "settings": {
